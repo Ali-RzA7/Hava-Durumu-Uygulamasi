@@ -2,7 +2,7 @@
 
 Bu hava durumu uygulaması, gerçek zamanlı olarak hava durumu bilgilerini alarak kullanıcılara sunan bir web uygulamasıdır.
 
-[Site linki](https://radiant-crumble-4792e1.netlify.app)
+[Site linki](https://havadurumuapps.netlify.app)
 
 ## Nasıl Çalışır?
 
